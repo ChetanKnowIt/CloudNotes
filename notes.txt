@@ -1,0 +1,3 @@
+use /* with arn name
+
+https://bobbyhadz.com/blog/aws-s3-action-does-not-apply-to-resources
