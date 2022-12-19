@@ -1,0 +1,15 @@
+- open codenvy.com
+- red button click 
+- login with redhat login id
+- wait for page load
+- click on +Add
+- View all samples
+- search for  'Basic Python'
+- click and wait for git login
+- give name to work spaces
+- click on create button
+- watch for resource added notification 
+- [⬀] for url
+- bottom right {Edit Source Code}
+- login with Red Hat Openshift
+- create new workspace 
